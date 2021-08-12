@@ -1,0 +1,2 @@
+var myFirstName = "blah";
+var myLastName = "blah";
