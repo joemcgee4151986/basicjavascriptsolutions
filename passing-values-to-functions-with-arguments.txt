@@ -1,0 +1,17 @@
+function functionWithArgs(a,b,c,d){
+console.log(a+b,c+d)
+
+
+}
+functionWithArgs(1,2);
+functionWithArgs(7,9);
+
+
+
+
+
+
+
+
+
+
