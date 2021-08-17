@@ -1,0 +1,11 @@
+// Setup
+var testObj = {
+  "hat": "ballcap",
+  "shirt": "jersey",
+  "shoes": "cleats"
+};
+
+// Only change code below this line
+
+var hatValue = testObj.hat;      // .hat is a string in the testObj properties
+var shirtValue = testObj.shirt;    // Change this line

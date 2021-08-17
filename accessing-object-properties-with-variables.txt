@@ -1,0 +1,12 @@
+// Setup
+var testObj = {
+  12: "Namath",
+  16: "Montana",
+  19: "Unitas"
+};
+
+// Only change code below this line
+
+var playerNumber = 16;       // 16 is the number in the testObj
+var player = testObj[playerNumber];   // player is the name
+console.log([playerNumber],[player])
